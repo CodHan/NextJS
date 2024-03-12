@@ -16,7 +16,6 @@ const CSRPage = () => {
 
   if (!data) {
     return <div>로딩중이에요/........</div>;
-    //주석추가
   }
   return (
     <>
